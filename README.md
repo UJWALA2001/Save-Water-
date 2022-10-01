@@ -1,5 +1,4 @@
-# Save-Water-
-# Azure-Chatbot :
+# Save-Water :
 This is a Informational bot application developoed for education related to give information about MS Azure.
 ### This web based informational bot application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skil prime, Quess, GitHub,EY.
  
@@ -34,6 +33,8 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 ## Screenshots:
 ## Home Page
 ![home page water](https://user-images.githubusercontent.com/112067519/193376897-3eafada2-44d0-4633-b162-80da6bd707d2.png)
+
+![home page water1](https://user-images.githubusercontent.com/112067519/193376922-a1ecae38-7020-4822-92bf-8ef75bbb53c9.png)
 
 ## Gallery Page
 

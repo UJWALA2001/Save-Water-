@@ -6,7 +6,7 @@ This is a Informational bot application developoed for education related to give
 ## Project link: "https://sites.google.com/view/savedrop-azure-website/home"
 
 ## Project title:
-      Azure Chat Bot
+      Save Water
 
 ## Project description 😃 :
 

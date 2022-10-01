@@ -33,6 +33,7 @@ I have created a informational bot named "Azure Chat bot" using Html and service
 
 ## Screenshots:
 ## Home Page
+![home page water](https://user-images.githubusercontent.com/112067519/193376897-3eafada2-44d0-4633-b162-80da6bd707d2.png)
 
 ## Gallery Page
 
